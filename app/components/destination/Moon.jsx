@@ -33,7 +33,7 @@ const Moon = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center pt-10 gap-10">
           <div className="basis-1/2 text-start">
-            <h2 className="text-xl font-normal tracking-widest uppercase  flex flex-col gap-4">
+            <h2 className="text-xl font-normal tracking-widest uppercase  flex flex-col gap-4 leading-snug">
               avg. distance{" "}
               <span className="text-[40px] antialiased not-italic font-semibold">
                 384,400 km
